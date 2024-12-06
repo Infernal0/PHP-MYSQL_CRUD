@@ -27,7 +27,7 @@
                 <a href="products.php">Show all Products</a>
             </form>
         </div>
-        <p>Developed By Msabdelbaky</p>
+        <p>Developer By Msabdelbaky</p>
     </center>
 </body>
 </html>
